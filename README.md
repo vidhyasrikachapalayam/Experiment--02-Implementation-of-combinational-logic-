@@ -77,7 +77,7 @@ endmodule
 
 ![image](https://github.com/vidhyasrikachapalayam/Experiment--02-Implementation-of-combinational-logic-/assets/119477817/ce059c22-ab38-435a-bdef-f3c4018ff9c2)
 
-##Truthtable:
+## Truthtable:
 
 ![image](https://github.com/vidhyasrikachapalayam/Experiment--02-Implementation-of-combinational-logic-/assets/119477817/6d91327d-e406-4bba-8dee-c7a5b03459f1)
 
